@@ -1,4 +1,4 @@
-https://github.com/Nishaanth27/Nishaanth27/blob/main/man-1835_256.gif
+![](https://github.com/Nishaanth27/Nishaanth27/blob/main/man-1835_256.gif)
 
 - 👋 Hi, I’m @Nishaanth27
 - 👀 I’m interested in creating websites using HTML CSS and JS 
