@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/gi84IkFRzwube" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-gi84IkFRzwube">via GIPHY</a></p>
+https://github.com/Nishaanth27/Nishaanth27/blob/main/man-1835_256.gif
 
 - 👋 Hi, I’m @Nishaanth27
 - 👀 I’m interested in creating websites using HTML CSS and JS 
