@@ -16,7 +16,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishaanth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nishaanth2701/)
-[![GitHub](https://img.shields.io/badge/GitHub-Nishaanth27-green?style=for-the-badge\&logo=github)](https://github.com/Nishaanth27)
+[![Twitter](https://img.shields.io/badge/Twitter-@nxhaanth-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Nxhaanth)
 [![Instagram](https://img.shields.io/badge/Instagram-@nxhaanth-pink?style=for-the-badge\&logo=instagram)](https://www.instagram.com/_nxhaanth_?igsh=ZmNyMnZ1OXlqeWh5)
 
 ---
