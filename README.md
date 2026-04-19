@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me
 
-💼 Backend Developer at **Capgemini** (2024 – Present)
-🎓 B.Tech in **CSE (AI & ML)**
-⚙️ Focused on **Microservices, Distributed Systems & Cloud**
-🚀 Strong in **Java ecosystem, Kafka, DevOps & API design**
+* 💼 Backend Developer at **Capgemini** (2024 – Present)
+* 🎓 B.Tech in **CSE (AI & ML)**
+* ⚙️ Focused on **Microservices, Distributed Systems & Cloud**
+* 🚀 Strong in **Java ecosystem, Kafka, DevOps & API design**
 
 ---
 
@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishaanth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nishaanth2701/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/Nishaanth27)
-[![Instagram](https://img.shields.io/badge/Instagram-@nxhaanth?style=for-the-badge\&logo=instagram)](https://www.instagram.com/_nxhaanth_?igsh=ZmNyMnZ1OXlqeWh5)
+[![Instagram](https://img.shields.io/badge/Instagram-@nxhaanth-pink?style=for-the-badge\&logo=instagram)](https://www.instagram.com/_nxhaanth_?igsh=ZmNyMnZ1OXlqeWh5)
 
 ---
 
