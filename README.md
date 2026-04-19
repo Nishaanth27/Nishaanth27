@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishaanth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nishaanth2701/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/Nishaanth27)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-pink?style=for-the-badge\&logo=instagram)](https://instagram.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-@nxhaanth?style=for-the-badge\&logo=instagram)](https://www.instagram.com/_nxhaanth_?igsh=ZmNyMnZ1OXlqeWh5)
 
 ---
 
@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database)
 
 ---
