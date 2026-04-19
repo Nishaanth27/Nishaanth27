@@ -1,12 +1,12 @@
-# 🚀 Nishaanth | Backend Engineer
+# 🚀 Nishaanth | Full Stack Developer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=26\&center=true\&vCenter=true\&width=700\&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+AWS+%7C+Docker;Building+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=26\&center=true\&vCenter=true\&width=700\&lines=Frontend+Developer;Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+AWS+%7C+Docker;Building+FullStack+Applications)
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Backend Developer at **Capgemini** (2024 – Present)
+* 💼 Software Engineer at **Capgemini** (2024 – Present)
 * 🎓 B.Tech in **CSE (AI & ML)**
 * ⚙️ Focused on **Microservices, Distributed Systems & Cloud**
 * 🚀 Strong in **Java ecosystem, Kafka, DevOps & API design**
@@ -84,14 +84,7 @@
 * 🧠 Advanced System Design
 * ☁️ Cloud-native architecture (AWS)
 * ⚡ Performance optimization & scalability
-
----
-
-## 🧩 Featured Work
-
-* 🔹 Customer & Order Microservices (Kafka-based communication)
-* 🔹 Bank Management System (Spring Boot + Thymeleaf)
-* 🔹 Log Intelligence Concept (GenAI-based idea)
+* 🤖 Discovering AI tools  
 
 ---
 
